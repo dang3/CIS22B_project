@@ -1,0 +1,18 @@
+		***********************************
+		*     Serendipity Booksellers     *
+		*          Sales Receipt          *
+		***********************************
+
+Date: 4/4/4
+
+
+   Qty 	       ISBN 	   Title 			 Author 			 Price
+--------------------------------------------------------------------------------------------------
+    2            7	   The Art of War      		 Sun Tzu                       	     $5.91
+
+
+		Subtotal:          $5.91
+		Tax 8.75%:         $0.52
+		Grand Total:       $6.43
+
+Thank you for shopping with Serendipity Booksellers!!!
